@@ -1,0 +1,121 @@
+siparis_id,restoran_adi,mutfak_turu,tutar_tl,mesafe_km,teslimat_suresi_dk,musteri_puani,iptal_durumu
+50000,Restoran_1,Doner/Kebap,473.0,8.3,44.0,3.8,0
+50001,Restoran_2,Tatlilar,147.0,7.5,22.0,4.6,0
+50002,Restoran_3,Tatlilar,162.0,3.9,42.0,4.0,0
+50003,Restoran_4,Burger,800.0,2.1,20.0,3.0,1
+50004,Restoran_5,Burger,542.0,8.0,50.0,3.8,0
+50005,Restoran_6,Burger,,9.0,21.0,3.1,1
+50006,Restoran_7,Tatlilar,296.0,4.1,42.0,4.9,1
+50007,Restoran_8,Tatlilar,648.0,7.9,37.0,3.3,0
+50008,Restoran_9,Tatlilar,729.0,5.0,51.0,4.4,1
+50009,Restoran_10,Doner/Kebap,613.0,8.7,43.0,4.9,0
+50010,Restoran_11,Tatlilar,317.0,2.8,22.0,4.7,0
+50011,Restoran_12,Doner/Kebap,729.0,10.7,52.0,,0
+50012,Restoran_13,Burger,,3.8,45.0,4.7,0
+50013,Restoran_14,Burger,636.0,4.7,,5.0,0
+50014,Restoran_15,Burger,633.0,1.2,26.0,4.2,0
+50015,Restoran_16,Pizza,141.0,1.8,69.0,4.1,1
+50016,Restoran_17,Pizza,231.0,6.4,55.0,4.3,0
+50017,Restoran_18,Ev Yemekleri,176.0,3.6,67.0,,0
+50018,Restoran_19,Ev Yemekleri,185.0,10.1,23.0,4.3,0
+50019,Restoran_20,Ev Yemekleri,217.0,0.7,,,1
+50020,Restoran_21,Pizza,263.0,4.9,61.0,3.4,1
+50021,Restoran_22,Pizza,554.0,4.4,74.0,3.2,0
+50022,Restoran_23,Ev Yemekleri,756.0,0.7,28.0,3.1,1
+50023,Restoran_24,Ev Yemekleri,798.0,1.9,19.0,3.5,0
+50024,Restoran_25,Tatlilar,205.0,5.3,,3.1,0
+50025,Restoran_26,Ev Yemekleri,707.0,6.2,61.0,4.1,0
+50026,Restoran_27,Tatlilar,463.0,5.1,61.0,3.6,0
+50027,Restoran_28,Doner/Kebap,413.0,6.6,26.0,,0
+50028,Restoran_29,Pizza,690.0,7.3,38.0,3.1,0
+50029,Restoran_30,Ev Yemekleri,769.0,0.6,41.0,3.5,0
+50030,Restoran_1,Pizza,730.0,5.8,51.0,4.5,0
+50031,Restoran_2,Pizza,823.0,11.6,39.0,4.2,0
+50032,Restoran_3,Pizza,362.0,6.5,20.0,3.1,0
+50033,Restoran_4,Doner/Kebap,680.0,8.3,29.0,,0
+50034,Restoran_5,Burger,151.0,4.1,45.0,4.8,0
+50035,Restoran_6,Ev Yemekleri,510.0,9.4,47.0,3.7,0
+50036,Restoran_7,Burger,396.0,9.4,43.0,3.7,0
+50037,Restoran_8,Burger,651.0,6.5,65.0,5.0,1
+50038,Restoran_9,Burger,273.0,11.7,38.0,4.3,0
+50039,Restoran_10,Pizza,502.0,1.9,45.0,4.1,0
+50040,Restoran_11,Tatlilar,187.0,0.7,73.0,4.7,0
+50041,Restoran_12,Pizza,333.0,9.4,43.0,3.6,0
+50042,Restoran_13,Pizza,774.0,9.8,50.0,3.9,0
+50043,Restoran_14,Burger,495.0,1.9,38.0,3.5,0
+50044,Restoran_15,Pizza,332.0,3.6,52.0,4.6,0
+50045,Restoran_16,Burger,198.0,0.7,69.0,,0
+50046,Restoran_17,Tatlilar,845.0,3.9,51.0,4.3,0
+50047,Restoran_18,Ev Yemekleri,,9.4,58.0,3.5,0
+50048,Restoran_19,Burger,723.0,6.5,68.0,3.4,0
+50049,Restoran_20,Tatlilar,500.0,4.5,64.0,4.0,0
+50050,Restoran_21,Ev Yemekleri,799.0,4.8,35.0,4.5,0
+50051,Restoran_22,Doner/Kebap,,0.5,28.0,4.1,0
+50052,Restoran_23,Burger,145.0,3.9,74.0,3.1,0
+50053,Restoran_24,Burger,566.0,7.9,40.0,4.7,1
+50054,Restoran_25,Doner/Kebap,185.0,11.7,65.0,3.1,0
+50055,Restoran_26,Doner/Kebap,373.0,10.2,39.0,4.9,0
+50056,Restoran_27,Burger,163.0,0.8,34.0,3.1,0
+50057,Restoran_28,Doner/Kebap,216.0,10.8,22.0,4.4,0
+50058,Restoran_29,Pizza,,9.5,61.0,3.2,0
+50059,Restoran_30,Ev Yemekleri,346.0,9.5,,4.8,0
+50060,Restoran_1,Ev Yemekleri,798.0,5.8,47.0,3.9,1
+50061,Restoran_2,Ev Yemekleri,555.0,5.1,32.0,3.3,0
+50062,Restoran_3,Pizza,720.0,4.0,44.0,3.7,0
+50063,Restoran_4,Doner/Kebap,498.0,1.3,52.0,3.3,0
+50064,Restoran_5,Tatlilar,297.0,3.1,50.0,,0
+50065,Restoran_6,Doner/Kebap,546.0,3.3,37.0,4.9,0
+50066,Restoran_7,Burger,828.0,6.1,33.0,3.9,0
+50067,Restoran_8,Ev Yemekleri,426.0,9.1,51.0,4.6,0
+50068,Restoran_9,Doner/Kebap,623.0,5.9,19.0,4.3,0
+50069,Restoran_10,Tatlilar,387.0,1.2,52.0,,0
+50070,Restoran_11,Burger,705.0,11.5,57.0,3.3,0
+50071,Restoran_12,Pizza,127.0,11.3,73.0,3.5,0
+50072,Restoran_13,Pizza,627.0,9.5,45.0,4.6,0
+50073,Restoran_14,Tatlilar,595.0,11.9,64.0,4.9,0
+50074,Restoran_15,Burger,416.0,6.8,56.0,3.5,0
+50075,Restoran_16,Ev Yemekleri,283.0,11.6,23.0,3.5,0
+50076,Restoran_17,Doner/Kebap,604.0,1.4,26.0,3.9,0
+50077,Restoran_18,Burger,,4.7,37.0,5.0,0
+50078,Restoran_19,Pizza,191.0,3.1,18.0,3.5,0
+50079,Restoran_20,Tatlilar,686.0,2.8,25.0,,1
+50080,Restoran_21,Tatlilar,678.0,2.1,72.0,4.8,0
+50081,Restoran_22,Doner/Kebap,357.0,7.7,40.0,3.0,0
+50082,Restoran_23,Tatlilar,223.0,9.5,20.0,3.1,0
+50083,Restoran_24,Tatlilar,329.0,7.2,21.0,,0
+50084,Restoran_25,Burger,673.0,2.2,42.0,4.8,0
+50085,Restoran_26,Ev Yemekleri,587.0,9.8,64.0,3.5,0
+50086,Restoran_27,Doner/Kebap,573.0,7.8,55.0,3.9,0
+50087,Restoran_28,Burger,387.0,5.0,32.0,3.9,0
+50088,Restoran_29,Ev Yemekleri,505.0,8.3,38.0,3.9,1
+50089,Restoran_30,Burger,506.0,3.5,52.0,4.2,0
+50090,Restoran_1,Burger,378.0,4.5,74.0,3.9,0
+50091,Restoran_2,Tatlilar,402.0,11.1,70.0,3.9,0
+50092,Restoran_3,Ev Yemekleri,745.0,3.8,70.0,3.9,0
+50093,Restoran_4,Doner/Kebap,159.0,5.9,63.0,4.2,0
+50094,Restoran_5,Doner/Kebap,605.0,10.7,69.0,4.1,0
+50095,Restoran_6,Ev Yemekleri,339.0,8.6,31.0,4.7,0
+50096,Restoran_7,Tatlilar,,1.2,,3.1,0
+50097,Restoran_8,Pizza,639.0,2.2,,4.7,0
+50098,Restoran_9,Burger,732.0,0.6,34.0,4.7,0
+50099,Restoran_10,Tatlilar,807.0,7.8,56.0,3.6,0
+50100,Restoran_11,Ev Yemekleri,738.0,5.6,26.0,3.9,0
+50101,Restoran_12,Burger,732.0,2.0,52.0,3.9,0
+50102,Restoran_13,Doner/Kebap,379.0,11.5,30.0,3.4,1
+50103,Restoran_14,Pizza,485.0,6.6,32.0,3.8,0
+50104,Restoran_15,Doner/Kebap,663.0,3.3,35.0,3.1,0
+50105,Restoran_16,Ev Yemekleri,768.0,6.3,68.0,3.6,0
+50106,Restoran_17,Burger,643.0,8.3,50.0,4.6,0
+50107,Restoran_18,Ev Yemekleri,135.0,1.4,23.0,3.6,0
+50108,Restoran_19,Burger,248.0,3.7,,4.6,0
+50109,Restoran_20,Tatlilar,694.0,9.8,40.0,4.1,0
+50110,Restoran_21,Pizza,228.0,5.8,44.0,4.8,0
+50111,Restoran_22,Tatlilar,652.0,6.8,51.0,4.1,0
+50112,Restoran_23,Tatlilar,789.0,5.5,73.0,3.1,0
+50113,Restoran_24,Ev Yemekleri,388.0,1.0,63.0,4.4,0
+50114,Restoran_25,Pizza,281.0,2.4,55.0,3.1,0
+50115,Restoran_26,Burger,379.0,5.6,31.0,3.9,0
+50116,Restoran_27,Burger,221.0,2.9,53.0,4.9,0
+50117,Restoran_28,Doner/Kebap,625.0,1.1,70.0,3.3,0
+50118,Restoran_29,Burger,,10.2,25.0,3.8,0
+50119,Restoran_30,Ev Yemekleri,366.0,11.8,52.0,4.5,0

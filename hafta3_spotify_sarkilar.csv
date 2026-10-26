@@ -1,0 +1,101 @@
+sarki_id,sanatci,tur,calinma_sayisi_milyon,sure_saniye,tempo_bpm,populerlik_puani,yayin_yili
+TR_001,Emir Can İğrek,Akustik,6.9,225,162,44,2020
+TR_002,Uzi,Rock,121.3,185,86,94,2019
+TR_003,Zeynep Bastık,Akustik,69.1,234,157,44,2025
+TR_004,Köfn,Rap/Hip-Hop,160.5,188,121,50,2020
+TR_005,Duman,Pop,88.4,260,104,48,2023
+TR_006,Duman,Rock,179.6,285,110,89,2025
+TR_007,Ezhel,Rap/Hip-Hop,35.4,164,113,62,2019
+TR_008,Güneş,Rap/Hip-Hop,161.3,222,85,78,2021
+TR_009,Uzi,Rock,144.3,226,119,64,2022
+TR_010,Uzi,Akustik,143.3,264,154,73,2020
+TR_011,Motive,Rap/Hip-Hop,156.9,205,143,40,2019
+TR_012,Emir Can İğrek,Elektronik,141.5,178,153,95,2025
+TR_013,Güneş,Rap/Hip-Hop,116.6,223,117,75,2023
+TR_014,Zeynep Bastık,Akustik,25.4,288,135,38,2019
+TR_015,Zeynep Bastık,Akustik,7.2,153,162,32,2024
+TR_016,Uzi,Elektronik,170.9,277,96,55,2023
+TR_017,Zeynep Bastık,Rap/Hip-Hop,114.8,166,104,77,2025
+TR_018,Ezhel,Akustik,148.0,133,137,95,2021
+TR_019,Duman,Rock,89.9,237,172,99,2022
+TR_020,Lvbel C5,Pop,22.8,255,127,57,2025
+TR_021,Köfn,Pop,24.3,149,173,55,2021
+TR_022,Motive,Pop,127.5,281,134,54,2020
+TR_023,Emir Can İğrek,Rap/Hip-Hop,80.5,179,113,41,2019
+TR_024,Köfn,Elektronik,38.2,225,141,34,2024
+TR_025,Emir Can İğrek,Akustik,91.8,234,123,77,2023
+TR_026,Sefo,Rock,13.0,246,140,66,2023
+TR_027,Köfn,Rock,108.5,227,127,73,2019
+TR_028,Lvbel C5,Rap/Hip-Hop,50.8,195,134,44,2024
+TR_029,Uzi,Pop,148.2,208,107,72,2019
+TR_030,Ezhel,Rap/Hip-Hop,58.4,135,128,77,2020
+TR_031,Duman,Elektronik,85.1,168,122,99,2021
+TR_032,Duman,Elektronik,3.3,244,168,75,2025
+TR_033,Ezhel,Akustik,14.6,254,107,72,2023
+TR_034,Güneş,Akustik,73.5,141,129,50,2020
+TR_035,Sefo,Elektronik,89.7,260,136,52,2021
+TR_036,Emir Can İğrek,Elektronik,111.8,147,164,76,2020
+TR_037,Lvbel C5,Elektronik,55.0,169,134,44,2024
+TR_038,Zeynep Bastık,Rap/Hip-Hop,129.3,150,92,54,2023
+TR_039,Köfn,Elektronik,159.7,272,169,65,2025
+TR_040,Sefo,Rock,144.9,228,85,80,2019
+TR_041,Köfn,Pop,8.5,155,92,44,2019
+TR_042,Lvbel C5,Elektronik,89.8,137,113,97,2021
+TR_043,Motive,Pop,20.5,229,89,50,2025
+TR_044,Motive,Rap/Hip-Hop,45.8,216,170,42,2022
+TR_045,Sefo,Pop,183.0,171,131,48,2024
+TR_046,Uzi,Rap/Hip-Hop,27.5,143,118,63,2021
+TR_047,Lvbel C5,Rock,93.1,207,149,97,2022
+TR_048,Lvbel C5,Rap/Hip-Hop,115.1,131,139,81,2020
+TR_049,Ezhel,Rap/Hip-Hop,130.7,248,174,56,2024
+TR_050,Uzi,Akustik,104.3,166,127,58,2020
+TR_051,Emir Can İğrek,Elektronik,3.0,198,158,57,2025
+TR_052,Emir Can İğrek,Elektronik,61.4,170,114,64,2023
+TR_053,Zeynep Bastık,Rock,96.6,191,166,37,2024
+TR_054,Duman,Rock,17.4,189,101,45,2022
+TR_055,Motive,Elektronik,65.8,254,110,65,2023
+TR_056,Emir Can İğrek,Akustik,7.3,240,92,59,2019
+TR_057,Uzi,Elektronik,15.7,143,131,47,2022
+TR_058,Lvbel C5,Akustik,74.4,213,160,31,2021
+TR_059,Emir Can İğrek,Rock,25.7,259,156,78,2019
+TR_060,Lvbel C5,Pop,105.8,199,173,33,2019
+TR_061,Emir Can İğrek,Rock,128.3,274,130,36,2021
+TR_062,Motive,Rock,148.7,252,152,68,2024
+TR_063,Köfn,Rap/Hip-Hop,38.1,218,117,42,2019
+TR_064,Emir Can İğrek,Rap/Hip-Hop,32.1,157,85,60,2025
+TR_065,Uzi,Rap/Hip-Hop,20.5,195,103,92,2022
+TR_066,Emir Can İğrek,Rap/Hip-Hop,118.5,134,115,85,2023
+TR_067,Duman,Akustik,131.4,174,164,71,2019
+TR_068,Motive,Elektronik,7.0,280,98,90,2022
+TR_069,Uzi,Pop,173.7,176,137,71,2020
+TR_070,Ezhel,Rock,10.8,160,132,85,2022
+TR_071,Uzi,Akustik,101.0,268,153,65,2023
+TR_072,Duman,Pop,131.9,139,174,97,2022
+TR_073,Köfn,Akustik,161.7,247,146,36,2021
+TR_074,Motive,Akustik,132.8,143,150,83,2023
+TR_075,Ezhel,Rock,149.0,209,148,30,2024
+TR_076,Duman,Elektronik,63.8,222,154,73,2020
+TR_077,Duman,Rap/Hip-Hop,151.4,139,147,74,2021
+TR_078,Sefo,Elektronik,16.0,205,157,76,2024
+TR_079,Motive,Rock,166.1,223,117,42,2022
+TR_080,Uzi,Rock,102.1,234,125,51,2023
+TR_081,Lvbel C5,Rock,151.8,130,173,50,2020
+TR_082,Köfn,Pop,84.6,262,132,38,2021
+TR_083,Lvbel C5,Elektronik,119.8,149,97,55,2024
+TR_084,Uzi,Elektronik,98.2,137,157,38,2024
+TR_085,Uzi,Akustik,136.0,130,161,44,2020
+TR_086,Motive,Akustik,16.2,186,115,39,2025
+TR_087,Uzi,Akustik,12.3,193,159,71,2022
+TR_088,Sefo,Rock,46.7,247,152,53,2020
+TR_089,Ezhel,Elektronik,30.6,157,88,78,2024
+TR_090,Uzi,Rock,161.9,250,103,55,2019
+TR_091,Lvbel C5,Pop,41.6,236,154,66,2021
+TR_092,Uzi,Akustik,181.1,178,166,97,2020
+TR_093,Sefo,Rock,63.3,249,97,79,2025
+TR_094,Emir Can İğrek,Rock,34.8,173,107,53,2024
+TR_095,Emir Can İğrek,Pop,146.7,185,167,48,2022
+TR_096,Duman,Rap/Hip-Hop,122.6,285,159,89,2024
+TR_097,Köfn,Elektronik,93.0,240,85,68,2022
+TR_098,Zeynep Bastık,Rap/Hip-Hop,103.6,263,172,47,2020
+TR_099,Ezhel,Akustik,133.7,237,138,48,2022
+TR_100,Güneş,Rock,43.3,277,155,65,2023

@@ -1,0 +1,101 @@
+urun_id,urun_adi,kategori,fiyat_tl,degerlendirme_puani,yorum_sayisi,ucretsiz_kargo,satici_puani
+1000,Klavye Modeli-601,Hoparlör,2274,3.3,3021,0,9.6
+1001,Hoparlör Modeli-244,Hoparlör,912,4.4,1337,1,9.6
+1002,Klavye Modeli-300,Akıllı Saat,1261,4.8,3213,1,9.8
+1003,Klavye Modeli-823,Klavye,2175,3.4,206,1,8.5
+1004,Akıllı Saat Modeli-560,Klavye,1495,3.2,2365,1,9.3
+1005,Powerbank Modeli-831,Powerbank,324,4.4,121,1,9.0
+1006,Kulaklık Modeli-851,Akıllı Saat,4831,4.1,941,1,8.8
+1007,Akıllı Saat Modeli-657,Akıllı Saat,3795,4.6,579,1,8.8
+1008,Akıllı Saat Modeli-646,Akıllı Saat,3482,3.4,2296,1,8.9
+1009,Powerbank Modeli-352,Akıllı Saat,1802,4.5,541,0,9.4
+1010,Kulaklık Modeli-489,Klavye,265,3.5,1630,1,9.2
+1011,Hoparlör Modeli-693,Klavye,431,3.4,2127,1,9.0
+1012,Hoparlör Modeli-982,Akıllı Saat,2355,3.4,390,0,8.3
+1013,Akıllı Saat Modeli-355,Powerbank,1368,4.6,3286,0,8.3
+1014,Kulaklık Modeli-808,Kulaklık,2357,4.3,479,1,8.2
+1015,Akıllı Saat Modeli-914,Kulaklık,4405,4.0,422,0,9.8
+1016,Klavye Modeli-549,Powerbank,1692,3.7,2399,0,8.2
+1017,Akıllı Saat Modeli-109,Akıllı Saat,4917,4.7,2692,0,8.4
+1018,Akıllı Saat Modeli-923,Klavye,4206,3.8,943,1,8.7
+1019,Hoparlör Modeli-897,Kulaklık,2671,4.6,959,1,9.6
+1020,Hoparlör Modeli-341,Hoparlör,2859,3.9,880,1,9.8
+1021,Hoparlör Modeli-350,Hoparlör,2938,3.8,767,1,9.5
+1022,Klavye Modeli-976,Powerbank,1960,3.9,1207,1,9.4
+1023,Hoparlör Modeli-104,Akıllı Saat,3713,3.6,1210,1,9.1
+1024,Kulaklık Modeli-218,Kulaklık,2174,4.4,668,0,8.3
+1025,Powerbank Modeli-900,Akıllı Saat,2561,4.0,29,1,9.8
+1026,Kulaklık Modeli-473,Kulaklık,1075,3.5,1995,0,9.5
+1027,Kulaklık Modeli-164,Powerbank,4011,4.7,1208,1,9.3
+1028,Hoparlör Modeli-245,Powerbank,3647,3.8,714,1,9.5
+1029,Powerbank Modeli-323,Hoparlör,1511,4.1,1884,0,9.4
+1030,Powerbank Modeli-338,Akıllı Saat,1659,4.7,1189,1,9.3
+1031,Powerbank Modeli-276,Hoparlör,2908,4.2,2229,1,9.9
+1032,Klavye Modeli-878,Akıllı Saat,2523,3.3,289,0,9.7
+1033,Hoparlör Modeli-952,Hoparlör,1932,4.8,67,1,9.3
+1034,Powerbank Modeli-381,Klavye,1804,4.2,1007,1,9.4
+1035,Klavye Modeli-162,Klavye,2762,3.7,666,0,8.3
+1036,Akıllı Saat Modeli-316,Klavye,3620,3.4,2718,1,9.3
+1037,Akıllı Saat Modeli-953,Klavye,3716,4.5,2208,0,8.3
+1038,Klavye Modeli-926,Kulaklık,2596,4.2,1497,1,9.2
+1039,Klavye Modeli-894,Klavye,3934,4.1,3125,0,9.9
+1040,Hoparlör Modeli-788,Powerbank,3069,4.7,971,1,9.1
+1041,Hoparlör Modeli-560,Powerbank,1359,4.5,853,0,9.0
+1042,Akıllı Saat Modeli-709,Kulaklık,441,3.4,1112,0,8.7
+1043,Powerbank Modeli-204,Klavye,2789,3.7,3437,1,8.4
+1044,Akıllı Saat Modeli-198,Klavye,1262,3.5,693,1,9.4
+1045,Powerbank Modeli-610,Klavye,4523,4.4,152,0,8.5
+1046,Powerbank Modeli-484,Hoparlör,2794,3.2,346,1,8.4
+1047,Hoparlör Modeli-504,Akıllı Saat,1118,4.1,2528,1,8.9
+1048,Kulaklık Modeli-922,Hoparlör,204,4.5,1091,1,9.6
+1049,Kulaklık Modeli-617,Akıllı Saat,666,4.7,1729,1,9.5
+1050,Klavye Modeli-575,Klavye,4369,3.7,1388,1,8.3
+1051,Hoparlör Modeli-808,Klavye,202,4.6,2613,1,9.0
+1052,Powerbank Modeli-962,Hoparlör,844,3.3,331,1,9.1
+1053,Kulaklık Modeli-744,Hoparlör,316,4.6,1797,1,9.3
+1054,Powerbank Modeli-969,Akıllı Saat,3127,3.3,1764,1,9.3
+1055,Kulaklık Modeli-870,Powerbank,2750,3.8,3217,1,8.8
+1056,Kulaklık Modeli-536,Akıllı Saat,4488,4.5,994,1,9.2
+1057,Kulaklık Modeli-122,Hoparlör,1045,3.4,2267,0,9.0
+1058,Hoparlör Modeli-664,Hoparlör,2961,3.5,2487,1,9.7
+1059,Akıllı Saat Modeli-776,Kulaklık,1340,4.4,956,1,9.1
+1060,Powerbank Modeli-813,Hoparlör,2009,4.4,727,0,8.9
+1061,Hoparlör Modeli-557,Kulaklık,922,4.3,3394,1,8.9
+1062,Hoparlör Modeli-182,Powerbank,423,4.3,2084,0,9.2
+1063,Hoparlör Modeli-244,Akıllı Saat,4826,4.1,2722,1,9.6
+1064,Hoparlör Modeli-184,Akıllı Saat,4407,3.6,2337,1,9.1
+1065,Hoparlör Modeli-177,Kulaklık,4853,3.7,3381,1,9.3
+1066,Klavye Modeli-556,Akıllı Saat,2247,3.4,433,1,9.5
+1067,Powerbank Modeli-977,Hoparlör,4948,4.7,1505,1,9.1
+1068,Hoparlör Modeli-100,Klavye,4614,4.2,290,1,8.9
+1069,Powerbank Modeli-150,Kulaklık,1772,3.8,3220,1,9.7
+1070,Klavye Modeli-784,Akıllı Saat,2027,3.9,3095,1,8.9
+1071,Klavye Modeli-816,Kulaklık,2116,4.8,2070,1,9.0
+1072,Powerbank Modeli-871,Kulaklık,4433,3.4,773,1,9.9
+1073,Kulaklık Modeli-545,Klavye,2225,4.2,2642,1,8.2
+1074,Akıllı Saat Modeli-548,Hoparlör,3943,4.0,1399,1,8.5
+1075,Kulaklık Modeli-980,Kulaklık,1100,4.2,3251,1,8.9
+1076,Kulaklık Modeli-587,Akıllı Saat,4984,3.1,3062,1,9.8
+1077,Kulaklık Modeli-899,Powerbank,2238,4.7,198,0,8.3
+1078,Hoparlör Modeli-133,Kulaklık,208,4.8,2554,1,8.2
+1079,Klavye Modeli-447,Kulaklık,459,4.1,992,0,8.3
+1080,Kulaklık Modeli-194,Klavye,1872,4.4,1141,1,8.4
+1081,Klavye Modeli-171,Hoparlör,2418,4.8,2166,1,8.3
+1082,Powerbank Modeli-650,Powerbank,2259,4.4,3298,0,9.0
+1083,Akıllı Saat Modeli-253,Akıllı Saat,3912,3.4,1706,1,9.2
+1084,Powerbank Modeli-349,Powerbank,1818,4.1,951,1,8.7
+1085,Powerbank Modeli-773,Akıllı Saat,519,4.2,835,0,8.9
+1086,Hoparlör Modeli-537,Hoparlör,1541,3.9,1925,1,8.4
+1087,Akıllı Saat Modeli-217,Akıllı Saat,2575,4.4,3340,0,8.8
+1088,Powerbank Modeli-870,Klavye,3031,4.8,2977,1,9.1
+1089,Powerbank Modeli-990,Klavye,3023,4.8,59,0,9.4
+1090,Akıllı Saat Modeli-405,Klavye,2193,3.9,804,1,8.2
+1091,Akıllı Saat Modeli-367,Klavye,3157,3.3,782,1,9.0
+1092,Powerbank Modeli-153,Powerbank,2237,4.9,1486,0,8.7
+1093,Akıllı Saat Modeli-335,Hoparlör,3689,4.6,1906,1,9.6
+1094,Powerbank Modeli-488,Akıllı Saat,3876,3.3,2214,0,9.4
+1095,Powerbank Modeli-833,Akıllı Saat,1317,4.8,3456,1,9.2
+1096,Hoparlör Modeli-862,Klavye,1803,4.7,2139,1,8.7
+1097,Kulaklık Modeli-924,Klavye,4226,4.0,59,1,9.7
+1098,Powerbank Modeli-500,Kulaklık,434,4.2,1828,1,8.3
+1099,Klavye Modeli-723,Hoparlör,2168,3.8,1206,1,8.4
