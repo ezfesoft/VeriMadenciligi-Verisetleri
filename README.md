@@ -1,0 +1,2 @@
+# VeriMadenciligi-Verisetleri
+Veri Setleri
